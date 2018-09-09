@@ -1,16 +1,15 @@
 //import Acme.*;
-import java.io.*;
 
 public class MiMatriz {
 	public static void main(String args[]) throws Exception {
-		InputStreamReader isr = new InputStreamReader(System.in);
-		BufferedReader br = new BufferedReader(isr);
+//		InputStreamReader isr = new InputStreamReader(System.in);
+//		BufferedReader br = new BufferedReader(isr);
 
 		System.out.print("Numero filas=");
-		int filas = Integer.parseInt(br.readLine());
+//		int filas = Integer.parseInt(br.readLine());
 
 		System.out.print("Numero columnas=");
-		int columnas = Integer.parseInt(br.readLine());
+//		int columnas = Integer.parseInt(br.readLine());
 
 		/*
 		 * Crear un objeto Matrix, que modela a una matriz 2D, mediante el número de
